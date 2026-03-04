@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Texted-based-Lobotomy-Corporation-Simulator-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "sincerely math"
+	}
+}
