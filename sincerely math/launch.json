@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch Hotline Miami Redux",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "C:\\Users\\jecoa\\Downloads\\sincerely math\\Hotline Miami Redux Redux.exe",
+            "cwd": "C:\\Users\\jecoa\\Downloads\\sincerely math",
+            "args": [],
+            "stopAtEntry": false,
+            "console": "externalTerminal"
+        }
+    ]
+}
